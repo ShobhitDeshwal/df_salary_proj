@@ -54,7 +54,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                 break
 
             job_button.click()  #You might 
-            time.sleep(5)
+            time.sleep(10)
             print("567")
             collected_successfully = False
             
@@ -71,7 +71,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     print("4")
                     collected_successfully = True
                 except:
-                    time.sleep(5)
+                    time.sleep(10)
 
             try:
                 salary_estimate = driver.find_element_by_xpath('//*[@id="HeroHeaderModule"]/div[3]/div[1]/div[4]/span').text
