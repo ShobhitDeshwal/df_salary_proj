@@ -51,10 +51,13 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
             print("Progress: {}".format("" + str(len(jobs)) + "/" + str(num_jobs)))
             if len(jobs) >= num_jobs:
+                print('there')
                 break
+            
+            print('here')
 
             job_button.click()  #You might 
-            time.sleep(10)
+            time.sleep(5)
             print("567")
             collected_successfully = False
             
@@ -71,7 +74,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     print("4")
                     collected_successfully = True
                 except:
-                    time.sleep(10)
+                    time.sleep(5)
 
             try:
                 salary_estimate = driver.find_element_by_xpath('//*[@id="HeroHeaderModule"]/div[3]/div[1]/div[4]/span').text
