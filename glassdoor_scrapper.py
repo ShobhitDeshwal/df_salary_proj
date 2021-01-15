@@ -51,7 +51,10 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
 
             print("Progress: {}".format("" + str(len(jobs)) + "/" + str(num_jobs)))
             if len(jobs) >= num_jobs:
+                print('there')
                 break
+            
+            print('here')
 
             job_button.click()  #You might 
             time.sleep(5)
