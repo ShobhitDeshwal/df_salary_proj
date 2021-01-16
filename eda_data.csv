@@ -1,0 +1,551 @@
+,Job Title,Salary Estimate,Job Description,Rating,Company Name,Location,Headquarters,Size,Founded,Type of ownership,Industry,Sector,Revenue,Competitors,hourly,min_salary,max_salary,avg_salary,company_txt,job_state,age,python_yn,R_yn,spark,aws,excel,job_simp,seniority,desc_len
+0,Data Scientist,$80K - $137K (Glassdoor est.),"Job Description
+
+What You’ll Get to Do:
+We have an exciting opportunity for a Data Scientist to support a client’s requirements in a challenging, dynamic setting located in the Washington Metropolitan Area. The Data Scientist will be expected to build statistical models, test hypotheses, interpret, summarize, visualize, and succinctly report on data findings.
+
+More About the Role:
+The Data Scientist will perform research on various data sources, to include unstructured data using quantitative and qualitative content analytics. The Scientist will construct and perform complex database search queries in multiple databases using SQL and API interfaces. The Scientist will perform web scraping and apply various techniques for processing unstructured data. The Scientist will leverage automation and machine learning to manage data, predict scenarios and make recommendations. The Data Scientist will contribute to building new analytical tools and packages across the enterprise and will be expected to collaborate with team members in a highly technical environment. The Data Scientist will be expected to learn and leverage emerging technologies including AWS and Git.
+
+
+Strong experience working with Python or R programming languages
+Experience working with data manipulation, analytic/business insight tools, and data visualization experience
+Experience with SciPy stack or Tidyverse packages
+Experience constructing and performing complex database search queries
+Experience/ knowledge of computer science concepts, data architecture, and experience/knowledge of statistics
+Experience /familiarity with statistics and probability including predicative modeling
+Experience with visualizing data using popular packages including Tableau, ggplot or Matplotlib
+Ability to communicate technical findings to non-technical audiences
+Bachelor’s degree in a highly quantitative subject or related field (for example, statistics, mathematics, economics, or related field)
+TS/SCI clearance with polygraph required
+Position requires a BS degree + 3 years of applicable experience OR a Master's degree + 1 year of applicable experience
+
+
+We’ve been named a Best Place to Work by the Washington Post.
+Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives.
+We offer competitive benefits and learning and development opportunities.
+We are mission-oriented and ever vigilant in aligning our solutions with the nation’s highest priorities.
+For over 55 years, the principles of CACI’s unique, character-based culture have been the driving force behind our success.
+Job Location
+US-Mclean-VA-VIRGINIA SUBURBAN
+
+CACI employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is proud to provide dynamic careers for employees worldwide. CACI is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities.",3.9,"CACI
+3.9","McLean, VA",-1,10000+ Employees,1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion (USD),-1,0,80,137,108.5,"CACI", VA,59,1,0,0,1,0,data scientist,na,3240
+1,Principal Data Scientist,$104K - $170K (Glassdoor est.),"Working out of our Chevy Chase, MD/Washington DC office, GEICO's Data Science team uses predictive analytics and innovative machine learning models to create value from data. We solve problems across GEICO, from Marketing to Claims and Underwriting, and are responsible for developing and driving strategic modeling initiatives. We see our projects through the entire data science lifecycle, from problem definition to data exploration, data munging, modeling, analysis, and deployment into production systems. We maintain a close partnership with IT to ensure that our models can be deployed quickly and monitored in a flexible deployment framework.
+As a Principal Data Scientist, you will work with a talented and diverse team of data scientists with responsibility to:
+Coordinate project teams of data scientists and supporting roles, acting as the primary point of contact in delivering end-to-end innovative, high-quality data solutions with measurable business value",3.5,"GEICO
+3.5","Chevy Chase, MD",-1,10000+ Employees,1936,Subsidiary or Business Segment,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,104,170,137.0,"GEICO", MD,85,0,0,0,0,0,data scientist,senior,974
+2,Data Engineer,$60K - $109K (Glassdoor est.),"Job Summary
+This role is responsible for the extraction, transformation and load of data from our legacy systems into our new Google Cloud environment. This position will be part of the Data & Analytics team.
+Responsibilities:
+Assembling large, complex sets of data that meet non-functional and functional business requirements
+Identifying, designing and implementing internal process improvements optimizing data delivery, and automating manual processes
+Building required infrastructure for optimal extraction, transformation and loading of data from various data sources including MySQL, Oracle, flat files, CSV into GCP.",2.8,"Atlantic Broadband
+2.8","Quincy, MA",-1,501 to 1000 Employees,-1,Company - Public,Internet,Information Technology,$100 to $500 million (USD),-1,0,60,109,84.5,"Atlantic Broadband", MA,-1,0,0,0,0,0,data engineer,na,629
+3,"Scientist III, Quality Control",$35K - $64K (Glassdoor est.),"The Scientist 3 - QC is responsible to perform testing of raw materials, in-process and finished pharmaceutical dosage forms, products on stability, cleaning verification samples following written procedures and applicable SOPs, calculate and report results on applicable specification documents, participate in method transfer activities within departments or between facilities or organizations. This role will also provide feedback on systems and analytical procedures to promote continuous improvement and enhancement of compliance posture.
+
+Essential Functions:
+Perform physical and chemical analysis of raw materials, in-process, and finished pharmaceutical products, including products on stability, according to written methods, material specification, and company policies as identified in standard operating procedures (SOPs). Comply with cGMps, SOPs, and STPs to avoid out-of-specification situation. Assure compliance with state and federal regulations.",3.4,"Amneal Pharmaceuticals
+3.4","Brookhaven, NY",-1,5001 to 10000 Employees,2002,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,35,64,49.5,"Amneal Pharmaceuticals", NY,19,0,0,0,0,0,na,na,968
+4,Healthcare Analytics Consultant,$48K - $74K (Glassdoor est.),"The Berkeley Research Group, LLC (BRG) Healthcare practice is ranked in the top 6 in the country by Modern Health Care. Within BRG’s Healthcare practice, the Healthcare Analytics professionals bring extensive industry experience to deliver data driven, independent, and innovative approaches to complex legal, regulatory, and business challenges. Our core strength is the ability to harness and analyze large amounts of electronic healthcare data and turn it into meaningful and insightful information. Healthcare companies trust our independent thinking and ability to solve unstructured problems. We serve a range of healthcare clients including payors, providers, life sciences companies, and the legal and financial firms that work with the industry.
+The Healthcare Analytics Consultant / Managing Consultant position is a senior-level consulting staff position. This position requires a highly motivated problem solver with solid analytical ability, strong organizational skills, and a desire to advance within the organization. The work of a Healthcare Analytics Consultant / Managing Consultant will involve both execution and oversight of engagement work streams that may be either qualitative or quantitative in nature, and responsibilities include: management of junior staff, design of statistical and financial analysis, modeling of financial and healthcare transactional data, quality control, development and presentation of client deliverables, management of existing client relationships, industry research, and supporting others in business development needs.",3.1,"Berkeley Research Group, LLC
+3.1","Tampa, FL",-1,1001 to 5000 Employees,2010,Company - Private,Consulting,Business Services,Unknown / Non-Applicable,-1,0,48,74,61.0,"Berkeley Research Group, LLC", FL,11,0,0,0,0,0,na,na,1577
+5,"Scientist, Product Development",$50K - $93K (Glassdoor est.),"Summary:
+Metagenics is a global lifestyle medicine company, offering products and programs exclusively to health care practitioners. For over 30 years, we have been driven by a scientific concept: How the right nutrition can help people realize their best health possible. We don't compromise on safety, efficacy, or quality - to make sure that we deliver the best results possible. Time after time. Bottle after bottle. We carefully monitor all products to assure purity and safety, from formulation and ingredient selection all the way to the final product. We offer more educational support for health care professionals than anyone else in our field - keeping them in touch with the latest research and nutritional approaches to help manage today’s most common illnesses. Metagenics is dedicated to helping people live a happier, healthier life by realizing their genetic potential.
+Responsibilities:
+Position Summary:
+
+The Product Development (PD) Scientist is responsible for all aspects of the technical product and process development from benchtop to commercialization of all dosage forms to achieve NPD (New Product Development) and reformulation goals. The PD scientist is expected to effectively utilize best practices and procedures in product and process development. Identifies and advances technology opportunities to drive innovation and points of differentiation for the brands. Effectively interfaces with Nutrition Science, Quality, Manufacturing, Marketing, Procurement and other cross-functional disciplines to accomplish project goals. The Product Development Scientist is known as a Subject Matter Expert (SME) on all aspects of formulation, product/process development, scale-up and commercialization of foods, medical foods and dietary supplement dosage forms. Expected to gain knowledge and insights about the customer feedback loops and effectively utilize these in advancing product and process development. Exemplifies good business acumen and utilizes agile principles in product and process development. A good steward of company resources.",3.1,"Metagenics
+3.1","Gig Harbor, WA",-1,201 to 500 Employees,1983,Company - Private,Health Care Services & Hospitals,Health Care,$100 to $500 million (USD),-1,0,50,93,71.5,"Metagenics", WA,38,0,0,0,0,0,na,na,2077
+6,Operations Data Analyst,$36K - $62K (Glassdoor est.),"Make your mark. With more than $17.2 billion of assets under management, Plante Moran’s Wealth Management Team serves as a trusted advisor to more than 2,900 high net worth individuals, family business owners, and corporate retirement plans helping them build, manage and preserve their wealth. Our integrated affiliate services include investment consulting, financial planning, trust, insurance consulting, estate planning, business succession, and tax planning.
+
+Your role.
+Your work will include, but not be limited to:
+Setup and closing of portfolios",4.0,"Plante Moran
+4.0","Kalamazoo, MI",-1,1001 to 5000 Employees,1924,Company - Private,Accounting,Accounting & Legal,$500 million to $1 billion (USD),-1,0,36,62,49.0,"Plante Moran", MI,97,0,0,0,0,0,analyst,na,559
+7,Data Scientist,$100K - $160K (Glassdoor est.),"Are you passionate about providing real impact to the country's toughest national security problems?
+
+Are you searching for engaging work with an employer that prioritizes innovation?
+
+If so, we may be looking for you to join our group at the Johns Hopkins University Applied Physics Laboratory (JHU/APL)!
+The Tactical Intelligence Systems Group of the Asymmetric Operations Sector is seeking a Data Scientist to develop cutting-edge solutions for challenges in data science and machine learning!",4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",-1,5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1,0,100,160,130.0,"Johns Hopkins Applied Physics Laboratory (APL)", MD,79,0,0,0,0,0,data scientist,na,501
+8,Data Scientist,$82K - $135K (Glassdoor est.),"Description
+Job Description:
+The Defense Group of Leidos has an opening for a Data Scientist supporting the Global Information Grid (GIG) Service Management-Operations (GSM-O) contract at Ft. Meade, MD.
+In this role, you will enable Command and Control (C2) of the Department of Defense Information Network (DODIN) by supporting the DISA Command Network in its application of big-data to realize the benefits of aggregation and correlation of historic and actualized data.
+This agency provides, operates, and assures command and control and information-sharing capabilities and a globally accessible enterprise information infrastructure in direct support to joint warfighters, national level leaders, and other mission and coalition partners across the full spectrum of military operations.
+Eligible
+No
+Top Secret/SCI
+Yes, 10% of the time
+40
+Day
+Professional
+Data Scientist",3.8,"Leidos
+3.8","Fort Meade, MD",-1,10000+ Employees,1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion (USD),-1,0,82,135,108.5,"Leidos", MD,52,0,0,0,0,0,data scientist,na,886
+9,Scientist,$51K - $108K (Glassdoor est.),"Classification:
+Salary
+Job Description:
+Are you looking for a new challenge? Passionate about innovation? Want to work for a company that values integrity, teamwork and loyalty?
+At LATICRETE International we are driven to be a top ten construction chemical company that still values family, diversity, collaboration and invention. We’ve been in business for over 60 years, family owned/operated for three generations and are available in 100 countries. In 2017, The Hartford Business Journal named us one of Connecticut’s Top Family Owned Companies!",3.5,"Laticrete International
+3.5","Grand Prairie, TX",-1,201 to 500 Employees,-1,Company - Private,Chemical Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,51,108,79.5,"Laticrete International", TX,-1,0,0,0,0,0,na,na,553
+10,Associate Data Analyst,$37K - $70K (Glassdoor est.),"Digital Remedy is a media execution company that specializes in finding operational efficiencies within the overcomplicated digital ad space.
+We focus on a non-biased, omni-channel, multi-DSP approach backed by a proprietary workflow platform and teams of experts in all major advertising technologies. Our 20 years of investment in the digital advertising ecosystem allows our advertisers, publishers, and agency clients to leverage the economies of scale provided by our people and tools. Simply put - any company touching digital media execution, from planning and buying, to optimizing, invoicing, and reporting needs to be working with Digital Remedy.
+We are seeking an associate data analyst to join our data operations team and play an important role in our growing organization! You will bring a blend of technical capabilities, business acumen and analytical skills, and leverage those skills while working with clients, other digital remedy departments, assisting with the challenges of our biggest clients and uncover actionable insights that drive revenue.
+
+Day-to-day you will:",3.7,"Digital Remedy
+3.7","New York, NY",-1,201 to 500 Employees,2000,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million (USD),-1,0,37,70,53.5,"Digital Remedy", NY,21,0,0,0,0,0,analyst,na,1094
+11,Senior Data Scientist,$109K - $175K (Glassdoor est.),"Job Posting Title
+Senior Data Scientist
+Summary
+About Self Aware Games
+Self Aware Games has been creating innovative, genre-defining products since 2006. A winning mix of compelling content and engaging social experiences keeps us top-of-the-charts in the social casino category. Our flagship game, Big Fish Casino, has generated more than $1B in bookings to-date making it one of the best performing mobile games ever. Self Aware Games is based in beautiful downtown Oakland, Calif., and is a business unit of Seattle-based Big Fish Games, Inc., part of Aristocrat Leisure Limited.
+
+We are looking for passionate and highly creative game engineers, artists, designers, product managers, analysts (and more!) to help build the world’s #1 social gaming company. With a strong portfolio of live games and new products in development we are hiring in all disciplines. If you are a passionate game-maker who wants to innovate, contribute and hone your craft as part of a close-knit, collaborative and inclusive culture, Self Aware Games is for you. Here are a few more company highlights:
+
+
+
+Oakland, CA, US
+Big Fish Games
+Regular
+Full time
+Big Fish Games",3.2,"Big Fish Games
+3.2","Oakland, CA",-1,501 to 1000 Employees,2002,Subsidiary or Business Segment,Video Games,Media,$50 to $100 million (USD),-1,0,109,175,142.0,"Big Fish Games", CA,19,0,0,0,0,0,data scientist,senior,1165
+12,Data Scientist,$87K - $142K (Glassdoor est.),"At Farm Credit Mid-America, we believe people are our strongest asset. We are consistently looking to hire individuals from a wide range of experience and capabilities who have a desire to serve. Currently, we have over 1,400 employees across Indiana, Ohio, Kentucky and Tennessee.
+BASIC FUNCTION : The Data Scientist focuses on using advanced analytics in support of the Association’s strategic objectives. This position is responsible for performing sophisticated data analytics (encompassing data mining, statistical analysis, predictive analytics, for example), and developing, documenting and supporting the deployment of quantitative models and other analytics tools. Identifies actionable insights from data that measurably improve business outcomes and/or reduce risk. Collects and prepares data for analysis, performs exploratory to advanced predictive and/or modeling analytics, and identifies data relationships (patterns and trends). Provides consultation to business leaders and other stakeholders on how to leverage analytic insights to build actionable strategies. Projects may include but not be limited to: automated credit decisioning, risk rating models, loan performance forecasting and analytics and model validation.",4.1,"Farm Credit Mid-America
+4.1","Louisville, KY",-1,1001 to 5000 Employees,1985,Company - Private,Lending,Finance,$100 to $500 million (USD),-1,0,87,142,114.5,"Farm Credit Mid-America", KY,36,0,0,0,0,0,data scientist,na,1239
+13,Data Visualization Scientist,$79K - $136K (Glassdoor est.),"Are you passionate about using data visualizations for understanding and solving complex and interesting problems?
+Have you worked with cutting-edge visualization frameworks to make data science/analytics findings relevant for technical and non-technical users?
+Do you value working in a creative and collaborative environment?
+If so, we are looking for someone like you to join our team!
+The Large-Scale Analytics Group (QAS) develops end-to-end systems that incorporate descriptive, predictive, and prescriptive analytics on different platforms. We utilize visual analytics to find information hidden deep within large and complex data sets. In QAS, we use visualizations to:",4.7,"Johns Hopkins Applied Physics Laboratory (APL)
+4.7","Laurel, MD",-1,5001 to 10000 Employees,1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion (USD),-1,0,79,136,107.5,"Johns Hopkins Applied Physics Laboratory (APL)", MD,79,0,0,0,0,0,na,na,681
+14,Data Scientist,$75K - $126K (Glassdoor est.),"At YETI, we believe that time spent outdoors matters more than ever and our gear can make that time extraordinary. When you work here, you'll have the opportunity to create exceptional, meaningful work and problem solve with innovative team members by your side. Together, you'll help our customers get the high-quality gear they need to make the most of their adventures. We are BUILT FOR THE WILD™.
+
+The Data Scientist will draw insights from large and/or complex data sets to solve business problems addressed by use cases. The Data Scientist will assess applicability of different AI/ML methods for different use cases and be responsible for building and iterating models to support business outcomes. The Data Scientist will help drive advanced analytics thinking and methodologies by investigating various topics and sharing insights with broader Data & Analytics team as well as business stakeholders
+
+Responsibilities:
+
+
+
+
+
+
+#LI-CL1",4.0,"YETI Coolers
+4.0","Austin, TX",-1,501 to 1000 Employees,2006,Company - Public,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion (USD),-1,0,75,126,100.5,"YETI Coolers", TX,15,0,0,0,0,0,data scientist,na,951
+15,Data Scientist,$89K - $144K (Glassdoor est.),"Avant is dedicated to building premier digital banking solutions for the middle class through a combination of technology, analytics and superior customer service. Since 2012, Avant has connected over one million customers to $6.5 billion in loans and to 200,000 credit cards. A high growth financial technology company, Avant has been featured in The Wall Street Journal, The New York Times, TechCrunch, Fortune, Bloomberg, and has raised over $600 million of equity capital. Visit www.avant.com for more information.
+
+Let’s get to business. Avant is looking for a new Data Scientist to join the team in Chicago.
+We are revolutionizing access to credit by innovative mathematical models. As part of our data science
+team, you will leverage our fast growing structured and unstructured dataset to improve default
+prediction, marketing analytics and operations. Your models will have a direct impact on our customers
+by helping us provide them with financing options at fair cost.
+What you do at Avant:",3.3,"Avant
+3.3","Chicago, IL",-1,501 to 1000 Employees,2012,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,89,144,116.5,"Avant", IL,9,0,0,0,0,0,data scientist,na,1008
+16,Data Scientist I,$79K - $133K (Glassdoor est.),"Job Description:
+Knowesis - Interesting Work with Interesting People
+Knowesis, Inc. has been providing data-driven decisions and solutions to our federal clients since 2007. Our highly qualified, customer-focused professionals are committed to providing information and advice to enable client success through holistic, thorough, thoughtful, and aligned approaches. Our clients leverage these capabilities to support their key business functions.
+Knowesis is looking for a Data Scientist I to support the United States Special Operations Command Preservation of the Force and Family (USSOCOM POTFF) program. The Data Scientist I will help in identifying and implementing innovative, valuable solutions across the Special Operations Forces (SOF) enterprise aimed at improving the short and long-term well-being of SOF warriors and their families.
+This work will be performed at the client’s Hurlburt Field, FL, location.
+
+Required Experience:",4.5,"Knowesis Inc.
+4.5","Hurlburt Field, FL",-1,51 to 200 Employees,2007,Company - Private,Consulting,Business Services,$25 to $50 million (USD),-1,0,79,133,106.0,"Knowesis Inc.", FL,14,0,0,0,0,0,data scientist,na,947
+17,Epitaxy Scientist,$36K - $88K (Glassdoor est.),"Responsibilities
+Develop, optimize and characterize III-nitride LED epi structures
+Improve epi material quality and LED performance
+Analyze growth and characterization data and correlate to device performance
+Lead epi development projects to improve epi and chip yield
+Summarize R&D results and prepare reports
+Transfer new developments to production
+Make recommendations for new/improved characterization techniques to solve material and device issues",3.1,"Sensor Electronic Technology, Inc
+3.1","Columbia, SC",-1,1 to 50 Employees,-1,Company - Private,Electrical & Electronic Manufacturing,Manufacturing,$5 to $10 million (USD),-1,0,36,88,62.0,"Sensor Electronic Technology, Inc", SC,-1,0,0,0,0,0,na,na,459
+18,Sr. Genomic Data Scientist,$85K - $137K (Glassdoor est.),"Benson Hill empowers innovators to develop more healthy, tasty and sustainable food by unlocking the natural genetic diversity of plants. Benson Hill's CropOS platform combines machine learning and big data with breeding techniques and plant biology to drastically accelerate and simplify the product development process. This platform allows for cost-effective and more efficient ways for companies to analyze and make improvements in plant genetics. Benson Hill brings a unique and holistic approach to our product and platform development, as we span a broader workflow involving trait and seed development, genome editing, and breeding all the way to creating better ingredients and varieties that tap a strong consumer demand for more flavorful and nutritious fruits and vegetables. More information can be found online at www.bensonhill.com. Follow us on Twitter at @BensonHillInc.
+
+Our Purpose and Core Values
+
+Our Core Values are a set of common principles we share that are fundamental to our company's identity.
+
+
+The Data Science & Platform Engineering Department leads the development of Benson Hill's crop design platform, CropOS which combines machine learning and big data with genome editing and plant biology to accelerate and simplify the product development process. The team partners with the Research & Development teams on the development of a portfolio of offerings (commercial, product, or platform related) that meet the needs of Benson Hill's business units.
+
+
+
+We are actively seeking a Senior Data Scientist (In Genomics) to join our rapidly growing CropOS Department. The successful candidate will be responsible for developing and implementing models enabling predictive genomics for breeding and gene editing product design. This person will work closely with Benson Hill scientists, data engineers, and project leaders to maximize the impact of Benson Hill's product development programs.",3.0,"Benson Hill
+3.0","Saint Louis, MO",-1,201 to 500 Employees,2012,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million (USD),-1,0,85,137,111.0,"Benson Hill", MO,9,0,0,0,0,0,data scientist,senior,1931
+19,Data Scientist,$81K - $137K (Glassdoor est.),"Apply
+
+Description
+
+Walton Isaacson is looking for a Marketing Data Scientist who will support the Media and Strategy Teams with insights gained from analyzing advertising campaign data, business trends, and industry data. The ideal candidate is adept at using large data sets to find opportunities for marketing strategy, tactical, and lead generation optimization and using models to test the effectiveness of different courses of action. These insights will support the development of custom solutions and highly targeted sales and marketing campaigns to optimize business results and drive revenue growth. They must have strong experience using a variety of data mining/data analysis methods/tools, building and implementing models, using/creating algorithms, and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. This role is part of the growing demand from our clients and will be critical in building out analytics capabilities for the agency.
+
+The right candidate will have a passion for discovering solutions hidden in large data sets and working with internal stakeholders and our clients to improve business outcomes. In addition, the Marketing Data Scientist will be a key partner to leadership by advising, training, and assisting management in understanding and leveraging customer data. The Marketing Data Scientist must also be comfortable working in a fast-paced, dynamic, and complex environment while juggling multiple priorities.
+
+Primary Responsibilities and Duties:
+Dashboard Skills and Knowledge:
+Business Intelligence Skills and Knowledge:",2.1,"Walton Isaacson
+2.1","Culver City, CA",-1,51 to 200 Employees,2006,Company - Private,Advertising & Marketing,Business Services,$50 to $100 million (USD),-1,0,81,137,109.0,"Walton Isaacson", CA,15,0,0,0,0,0,data scientist,na,1643
+20,Data Analyst,$40K - $73K (Glassdoor est.),"This position will be responsible for the development and maintenance of the company’s data analytic platform enabling business units to make decisions and achieve better outcomes for the company. A key partner promoting collaboration with cross-functional teams to design innovating reporting capabilities that provide key insights into cloud adoption, quality metrics and business KPI’s. The successful candidate must have knowledge of Business Intelligence, Data Warehousing, ETL database functionality and data modelling; effectively handle multiple work assignments, while consistently deliver high quality work; and will apply their experience in analytics, data visualization and modeling to find solutions for a variety of business and technical problems; querying and analyzing small and large data sets to discover patterns and deliver meaningful insights; and demonstrated ability to self-organize and prioritize multiple time-sensitive tasks on a daily basis.
+Essential Functions and Responsibilities:
+Azure Analysis Services - Tabular Modeling with development experience in Perspectives, Partitions and Design Aggregations",3.6,"Bell Partners
+3.6","Raleigh, NC",-1,1001 to 5000 Employees,1976,Company - Private,Real Estate,Real Estate,$50 to $100 million (USD),-1,0,40,73,56.5,"Bell Partners", NC,45,0,0,0,0,0,analyst,na,1138
+21,Data Scientist,$66K - $116K (Glassdoor est.),"Data Scientists produce innovative solutions driven by exploratory data analysis from complex and high-dimensional datasets. They apply knowledge of statistics, data modeling, and advanced mathematics to recognize patterns, identify opportunities, pose business questions, and make valuable discoveries. Data Scientists use a flexible, analytical approach to design, develop, and evaluate predictive models, and generate and test hypotheses.
+Communication & Project Ownership
+Support large projects, and manage smaller projects in their entirety
+Partner with senior team members to assess customer needs and define business questions. Emerging ability to influence customers to take action on analytical insights.
+Communicate results and insights, both verbally and written (including visual graphics), in a clear and concise manner to a non-technical audience.",3.6,"Florida Blue
+3.6","Jacksonville, FL",-1,10000+ Employees,1944,Nonprofit Organization,Insurance Carriers,Insurance,$10+ billion (USD),-1,0,66,116,91.0,"Florida Blue", FL,77,0,0,0,0,0,data scientist,na,865
+22,Full-Time Human Resources Data Analyst,$37K - $66K (Glassdoor est.),"Apply
+
+Description
+
+The HR Data Analyst is responsible for coordinating Avadian’s personality inventory tool – Culture Index (CI). This will include gathering and processing qualitative and quantitative data from the CI tool for assistance in recruitment, retention, job patterns, assessments, and position analysis.
+
+Functions and Responsibilities:
+Promote a positive relationship between the employees and the Credit Union.
+Carry out a C-Job positional analysis for new and current positions, send C-Job surveys to employees, discuss results with hiring managers, open/close C-Jobs depending on hire status, and discuss any complex issues with the executive CI advisor.",4.2,"Avadian Credit Union
+4.2","Hoover, AL",-1,201 to 500 Employees,1934,Nonprofit Organization,Banks & Credit Unions,Finance,$25 to $50 million (USD),-1,0,37,66,51.5,"Avadian Credit Union", AL,87,0,0,0,0,0,analyst,na,679
+23,Data Analyst - Product Development (eCommerce),$37K - $66K (Glassdoor est.),"JOB TITLE: Data Analyst - Product Development (eCommerce)
+REPORTS TO: Manager, Analytics
+JOB SUMMARY: The Data Analyst will play a critical role in helping BNED analyze the business through product analytics and evolve as a “digital-first” organization. The Data Analyst will work closely with business stakeholders to identify and measure key performance indicators. This candidate must be comfortable working with large sets of data and using critical thinking/analytical skills to unlock key actionable insights.
+ESSENTIAL FUNCTIONS:
+Analyze business & customer behavior data to identify opportunities for product and website enhancements",3.5,"Barnes & Noble Education
+3.5","Boston, MA",-1,10000+ Employees,1965,Subsidiary or Business Segment,Media & Entertainment Retail Stores,Retail,$1 to $2 billion (USD),-1,0,37,66,51.5,"Barnes & Noble Education", MA,56,0,0,0,0,0,analyst,na,645
+24,Data Science (Privacy) Manager,$101K - $163K (Glassdoor est.),"Neustar is an information services and technology company and a leader in identity resolution providing the data and technology that enables trusted connections between companies and people at the moments that matter most. More information is available at https://www.home.neustar.
+
+Job Requisition:
+
+R-3330 Data Science (Privacy) Manager (Open)
+
+Primary Location:
+
+SAN DIEGO
+
+Job Description:
+
+
+
+As a company built on the foundation of Privacy by Design, for more than 20 years Neustar’s unique capabilities have made us the leader in the field of responsible identity resolution. Neustar enables trusted connections between companies and people at the moments that matter most, with world-class and industry leading solutions in Marketing, Risk, Communications, Security and Registry services.
+
+
+
+Data Science Mgr (Privacy)
+
+
+
+As a member of the Data Science R&D team, you will develop next-generation privacy technologies that impact how we collect, use, and share user data. You’ll be collaborating across the company and touch on all stages of user data lifecycle; from client-side data collection, to privacy-preserving data releases to our advertisers/publishers, and machine-learning/inference using secure multi-party computing techniques.
+
+Application areas include Identity Resolution, Marketing Analytics Security and Fraud and other Business Solutions supported by our or our client’s data.
+
+
+
+At Neustar, we are committed to the growth and development of our employees whose individual skills, curiosity, and passion for their work, contribute to the overall success of our business. Our core values (Accountability, Collaboration, Transparency, Resilience, and Respect) are the driving force of our culture across our locations around the globe. We offer our employees a comprehensive benefits package including perks such as tuition reimbursement, awesome company discounts, back-up day care, community service events, pet and baby swag and much more! We are all learning and creating together and having some major fun along the way. JOIN US! We can’t wait to meet you!
+
+
+
+
+Diversity, inclusion and teamwork are second nature to Neustar; and these values permeate our entire business structure. Neustar is committed to creating an environment where a wide spectrum of opinions and beliefs are actively sought, listened to and respected. Further, our talented workforce draws from the many geographic areas and markets in which Neustar operates worldwide, which represents a distinct competitive advantage. The rich and varied personal and professional backgrounds of our employees make Neustar a dynamic and rewarding company at which to build a career. We invite you to join us.
+
+
+Neustar, Inc. considers all applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, or status as a Vietnam-era or special disabled veteran in accordance with federal law and other state and local requirements. Neustar, Inc., complies with applicable state and local laws prohibiting discrimination in employment and provides reasonable accommodation to qualified individuals with disabilities in accordance with the American with Disabilities Act (ADA) and applicable state and local laws.",3.9,"Neustar
+3.9","San Diego, CA",-1,1001 to 5000 Employees,1996,Company - Private,Internet,Information Technology,$500 million to $1 billion (USD),-1,0,101,163,132.0,"Neustar", CA,25,0,0,0,1,0,manger,na,3294
+25,Data Analyst,$47K - $84K (Glassdoor est.),"At Emerson, we are innovators and problem-solvers, focused on a common purpose: leaving our world in a better place than we found it. Each and every day, our foundational values—integrity, safety and quality, supporting our people, customer focus, continuous improvement, collaboration and innovation—inform every decision we make and empower our employees to keep reaching higher. As a global technology and engineering leader, we provide groundbreaking solutions for customers in industrial, commercial, and residential markets. Our Emerson Automation Solutions business helps process, hybrid, and discrete manufacturers maximize production and protect personnel and the environment while optimizing their energy and operating costs. Our Emerson Commercial & Residential Solutions business helps ensure human comfort and health, protect food quality and safety, advance energy efficiency and create sustainable infrastructure.Emerson, a Fortune 500 company with $15.3 billion in sales and 200 manufacturing locations worldwide, is committed to helping employees grow and thrive throughout their careers. Whether you’re an established professional looking for a career change, an undergraduate student exploring options or a recent MBA graduate, you’ll find a variety of opportunities at Emerson. Join our team and start your journey today.",3.7,"Emerson
+3.7","Dayton, OH",-1,10000+ Employees,1890,Company - Public,Electrical & Electronic Manufacturing,Manufacturing,$10+ billion (USD),-1,0,47,84,65.5,"Emerson", OH,131,0,0,0,0,0,analyst,na,1341
+26,HCM Data Analyst,$55K - $94K (Glassdoor est.),"Any qualified individual with a disability who is having difficulty in completing an application because of incompatible technology or other disability-related application issues may contact us at the following phone number for assistance: 251-445-1932.
+
+Austal shall abide by the requirements of 41 CFR §§ 60-1.4(a), 60-300.5(a) and 60-741.5(a). These regulations prohibit discrimination against qualified individuals based on their status as protected veterans or individuals with disabilities, and prohibit discrimination against all individuals based on their race, color, religion, sex, sexual orientation, gender identity, or national origin. Moreover, these regulations require that covered prime contractors and subcontractors take affirmative action to employ and advance in employment individuals without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status or disability. Austal’s commitment to equal employment opportunity applies at all levels of employment, in all job titles, including the executive level, and to all employment actions, including but not limited to decisions concerning recruitment, hiring, training, and promotion.",3.1,"Austal USA
+3.1","Mobile, AL",-1,1001 to 5000 Employees,1988,Company - Public,Industrial Manufacturing,Manufacturing,$1 to $2 billion (USD),-1,0,55,94,74.5,"Austal USA", AL,33,0,0,0,0,0,analyst,na,1214
+27,"Scientist, Clinical Data Manager",$30K - $55K (Glassdoor est.),"Job Number: 29829
+
+Reynolds American Incorporated is positively transforming the tobacco industry. We’re a family of companies that strives for success in everything we do. The future inspires us because our people are igniting the breakthroughs that are redefining the ways adult tobacco consumers enjoy tobacco in the 21st century.
+
+When other companies talk about growth, they only talk about size. At Reynolds American, we focus on the growth of our people. We take pride in each other’s growth and well-being throughout our careers. We invest in your career and total well-being because we know our companies succeed when our people thrive.
+ABOUT OUR ORGANIZATION:
+Reynolds American Inc. is an indirect, wholly owned subsidiary of British American Tobacco p.l.c., and the U.S. parent company of R. J. Reynolds Tobacco Company; Santa Fe Natural Tobacco Company, Inc.; American Snuff Company, LLC; Modoral Brands, Inc.; R. J. Reynolds Vapor Company; Lorillard Licensing Company, LLC; Reynolds Brands, Inc.; and Vuse Stores LLC.",4.3,"British American Tobacco
+4.3","Winston-Salem, NC",-1,10000+ Employees,1902,Company - Public,Consumer Products Manufacturing,Manufacturing,$10+ billion (USD),-1,0,30,55,42.5,"British American Tobacco", NC,119,0,0,0,0,0,manger,na,1036
+28,"Senior Scientist, DMPK",$113K - $207K (Glassdoor est.),"Senior Scientist, DMPK
+Location
+
+
+Agios Pharmaceuticals HQ
+
+Job Code
+
+914
+
+# of openings
+
+1
+
+Apply Now",4.2,"Agios Pharmaceuticals
+4.2","Cambridge, MA",-1,501 to 1000 Employees,2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million (USD),-1,0,113,207,160.0,"Agios Pharmaceuticals", MA,13,0,0,0,0,0,na,senior,116
+29,Business Intelligence Analyst,$40K - $81K (Glassdoor est.),"POSITION OVERVIEW:
+
+Our company has a need for Business Intelligence Analyst with experience in data analytics and reporting. We are interested in furthering our analysis and reporting practices, so you will be responsible for creating and managing BI and analytics solutions that turn data into knowledge. You’ll be responsible for processing several different types of data, including those related to our company, website and online presence.
+
+ESSENTIAL DUTIES and RESPONSIBILITIES, includes the following responsibilities, but not limited to:
+Work with our IT department to develop an enterprise reporting environment including advising software and hardware decisions.
+Provide quality assurance of reporting data.
+Manage reporting users and user roles.",4.6,"CMG Financial
+4.6","Baltimore, MD",-1,1001 to 5000 Employees,1993,Company - Private,Lending,Finance,Unknown / Non-Applicable,-1,0,40,81,60.5,"CMG Financial", MD,28,0,0,0,0,0,analyst,na,764
+30,Data Analyst,$65K - $79K (Employer est.),"Data Analyst
+Corporate Headquarters
+12575 Uline Dr. Pleasant Prairie, WI 53158
+
+We're passionate about our products because our customers rely on them to run their businesses.
+
+Better together than apart. This position is on-site, and we are looking for good people who share our passion.
+
+Uline is proud to operate as a drug-free workplace. All new hires must complete a pre-employment drug screening.
+
+Position Responsibilities
+Write SQL queries to retrieve sales, customer and product data.
+
+
+
+
+
+
+Uline is North America's leading distributor of shipping, industrial and packaging materials. We're a family-owned company known for incredible service, our 800+ page catalog of over 37,500 quality products and same-day shipping of our huge in-stock inventory. With over 7,000 employees across 12 locations, it's time you joined Uline.
+
+Uline provides the essential supplies needed to keep organizations operational and productive. To protect the health and safety of our employees, we have modified our normal operating policies in response to COVID-19.
+
+Each resume submitted gets individually reviewed by our team and retained for 24 months in case a great opportunity opens for you to join our Uline family.
+
+EEO/AA Employer/Vet/Disabled
+Uline is a drug-free workplace.
+
+#LI-LP1
+#CORP",3.7,"Uline
+3.7","Pleasant Prairie, WI",-1,5001 to 10000 Employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,-1,0,65,79,72.0,"Uline", WI,41,0,0,0,0,0,analyst,na,1316
+31,Principal Data Scientist,$71K - $122K (Glassdoor est.),"Job Description:
+At Fidelity’s Artificial Intelligence Center of Excellence (COE), you won’t be just tinkering around the edges, you’ll be building critical solutions that will benefit our clients for years to come. We work closely with business stakeholders, collect requirements and deliver high value AI/ML solutions that drive customer and business value. Those of us who love to work with data see this as the pinnacle of opportunities that you cannot find anywhere else in the industry.
+The AI COE is seeking a Principal Data Scientist with experience in Virtual Assistants or chatbots, Natural Language Processing/text analytics, machine learning, various deep learning related technologies, predictive and prescriptive analytics.
+The Expertise You Have",4.1,"Fidelity Investments
+4.1","Boston, MA",-1,10000+ Employees,1946,Company - Private,Investment Banking & Asset Management,Finance,$10+ billion (USD),-1,0,71,122,96.5,"Fidelity Investments", MA,75,0,0,0,0,0,data scientist,senior,763
+32,Scientist,$41K - $91K (Glassdoor est.),"Company Description
+
+EAG Laboratories is a global leader in analytical chemistry, advanced microscopy, surface analysis and analytical testing services of various types of materials from synthetic biomaterials to nanotechnology, deliver new “super materials” with the potential to transform our world. Our laboratories are at the forefront of this revolution, providing the scientific expertise and analytical techniques to support companies at every phase of the product lifecycle, from R&D to manufacturing.
+
+Our clients include leading edge tech companies in a diverse range of industries and business sectors who design, manufacture or incorporate products for tomorrow’s technology driven world. EAG’s scientists and engineers engage in peer-to-peer interaction to discuss and comprehensively understand client issues, challenges, goals and urgency, to define the technical problems, develop and execute analyses, and report back results. We have a growth mindset culture where individuals are encouraged to drive their own success and make their own decisions while fulfilling client needs.
+
+
+
+EAG Laboratories has a great opportunity for a highly motivated chemist who enjoys solving problems using analytical chemistry. In this role, the individual will be responsible for:
+All accepted applicants must be U.S. Persons as defined by ITAR: U.S. Person is a U.S. Citizen, U.S. Permanent Resident (i.e., ""Green Card Holder""), Political Asylee, or Refugee due to use of information in this role is subject to the International Traffic in Arms Regulations (ITAR).
+
+
+
+All your information will be kept confidential according to EEO guidelines.",3.6,"EAG Laboratories
+3.6","Saint Louis, MO",-1,501 to 1000 Employees,1978,Subsidiary or Business Segment,Research & Development,Business Services,$100 to $500 million (USD),-1,0,41,91,66.0,"EAG Laboratories", MO,43,0,0,0,0,0,na,na,1658
+33,Data Scientist Senior,$96K - $153K (Glassdoor est.),"This position will report under the Corporate Responsibility/Compliance department.
+Bachelor's degree in data analytics or business-related field with 10+ years of experience working with data management systems strongly preferred.
+Certification in Data Analytics (ACDA, etc.) and other healthcare or internal audit certifications strongly preferred.
+Strong knowledge of and experience with reporting packages (Business Objects etc.), databases (SQL, etc.), and analysis tools (SAS, Proactive Detection, etc.) strongly preferred. Will be performing data mining and data analysis as it relates to the Compliance program.
+10+ years in healthcare data analytics, healthcare internal audit or healthcare compliance strongly preferred. Candidates ideally have a strong understanding of health care operations, including reimbursement, as it pertains to local, regional and federal health care.",3.6,"SSM Health
+3.6","Saint Louis, MO",-1,10000+ Employees,1874,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion (USD),-1,0,96,153,124.5,"SSM Health", MO,147,0,0,0,0,0,data scientist,senior,892
+34,Senior Engineer/Data Scientist - Industry 4.0,$89K - $141K (Glassdoor est.),"Friday, October 30, 2020
+
+
+Watlow Profile: The world’s leading companies start with Watlow for their thermal solutions. Watlow®, a privately-owned company, is the industry leader in the design, manufacture and integration of complete thermal systems including electric heaters, temperature sensors, temperature controllers, power controllers and supporting software. At Watlow, we are constantly driven to do more to help our customers. We take on big technical challenges. We are committed to projects that help our fellow human beings and we strive to learn more. From single components to high performance systems, we bring our thermal expertise to numerous applications, including semiconductor processing, energy processes, diesel, foodservice equipment, life sciences and others.
+
+Overview of Role
+
+The Sr. Engineer/Data Scientist will be responsible for applying expertise in data science and analytics to improve the customer’s thermal system performance, focused on integration into Industry 4.0 technologies. The Sr. Engineer/Data Scientist will actively collaborate with customers and Watlow’s internal subject matter experts while expanding Watlow’s technical expertise in successful deployment of advanced alarming algorithms. The role will be located in St. Louis, Missouri at Watlow’s Global headquarters and Advanced Technology Center",3.4,"Watlow Electric Manufacturing
+3.4","Saint Louis, MO",-1,1001 to 5000 Employees,1922,Company - Private,Metal & Mineral Manufacturing,Manufacturing,$100 to $500 million (USD),-1,0,89,141,115.0,"Watlow Electric Manufacturing", MO,99,0,0,0,0,0,data scientist,senior,1357
+35,Data Scientist II,$74K - $121K (Glassdoor est.),"Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
+
+We now turn to the next leg, developing the technological tools that make our vision of financial health for all a reality. Atypical for the financial services industry, we take a contemporary approach to strategy and product development that is founded in user insights, rapid testing and a singular focus on driving end-user value.
+
+Since charting new territory on a daily basis is part of everyone's job at Blucora, we've attracted team members who thrive on the challenge, encourage each other, and are passionately committed to the goal. If you agree that problem- solving is a team sport, and feel energized by a good debate, deep dive research, or a fun night out with colleagues, we might be the right firm for you!
+Position Summary
+
+The Data Scientist II is responsible for providing data, analysis, statistical modeling, and machine learning capabilities to inform key business initiatives. This role will deliver models to optimize marketing spend, create personalized engagement, and drive customer retention across both our tax preparation and wealth management businesses.
+
+
+
+The major responsibilities of the position are listed below. To perform the job successfully, the individual must be able to execute each essential duty satisfactorily. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+
+
+
+We offer a competitive salary, outstanding benefits package that includes medical, dental, vision, life insurance, paid vacation and sick days, paid holidays, tuition reimbursement, and 401(k) with company match. Qualified applicants will receive consideration for employment without regard to their race, color, religion, national origin, sex, or disability.
+
+#Blucora
+
+At Blucora, we believe our work benefits from the diverse perspectives of our employees. As such, Blucora welcomes and celebrates diversity and inclusion and is committed to equal opportunity employment. At Blucora, you can expect a supportive, open and inclusive atmosphere and a team that values your contributions.
+
+Blucora, Inc. and its subsidiaries, Avantax Wealth Management, HK Financial Services, and TaxAct are committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants without regard to race, color, religion, sex, national origin, age, physical and mental disability, marital status, sexual orientation, gender identity, veteran status, and any other status protected under federal or state law. Blucora, considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. If you need assistance or an accommodation due to a disability, you may contact us at HR@Blucora.com or by calling 972-870-6000 to speak with a member of the HR Talent Acquisition team.",3.5,"Blucora
+3.5","Dallas, TX",-1,501 to 1000 Employees,1996,Company - Public,Financial Transaction Processing,Finance,$500 million to $1 billion (USD),-1,0,74,121,97.5,"Blucora", TX,25,0,0,0,0,0,data scientist,na,3073
+36,Business Intelligence Analyst,$39K - $79K (Glassdoor est.),"Quench USA, Inc. is a provider of filtered water systems, including bottleless water coolers, ice machines, sparkling water dispensers, and coffee brewers to approximately 40,000 institutional and commercial customers, including more than half of the Fortune 500. Headquartered in King of Prussia, PA, Quench has sales and service operations across the U.S. Quench is a subsidiary of Culligan.
+Quench seeks a growth-oriented individual as its new Business Intelligence Analyst. The Business Intelligence (BI) Analyst will work closely with Quench’s internal customers to turn data into critical information and knowledge that can be used to make sound business decisions. He or she will provide data that is accurate, congruent and reliable and is easily accessible. The BI Analyst will educate and train Quench’s internal customers to use the data as an analytical tool, displaying the information in new form and content for the purpose of analysis and exploring options. Starting from reporting out on existing data, the BI Analyst will quickly be expected to turn current reports into repeatable dashboards which meet up-to-date internal customer needs and can be relied on by Quench’s executive leadership team.",3.0,"Quench USA
+3.0","King of Prussia, PA",-1,501 to 1000 Employees,-1,Subsidiary or Business Segment,Commercial Equipment Rental,Business Services,$50 to $100 million (USD),-1,0,39,79,59.0,"Quench USA", PA,-1,0,0,1,0,0,analyst,na,1217
+37,Senior Data Scientist,$72K - $122K (Glassdoor est.),"Are you a talented and passionate engineer? Do you love solving problems and making ideas come to life? Are you a lifelong learner who thrives in dynamic environments and enjoys the challenge of learning new technologies and techniques? Are you a team player and enjoy collaboration, but you are also self-directed and enjoy the autonomy to be able to manage your own schedule and workload? Do you appreciate the importance of good communication and know that teamwork takes practice, effort and a good attitude? If so, we want to speak with you.
+
+The Senior Data Scientist is responsible for collaborating with the team to design and implement systems that focus on forecasting, allocating, delivering, and reporting of advertising on the internet, TV, and connected devices. The successful candidate will utilize advanced mathematical, optimization, machine-learning, software engineering, and programming skills to solve challenging problems.",3.9,"Amobee
+3.9","Baltimore, MD",-1,501 to 1000 Employees,2005,Company - Private,Advertising & Marketing,Business Services,$500 million to $1 billion (USD),-1,0,72,122,97.0,"Amobee", MD,16,0,0,0,0,0,data scientist,senior,947
+38,Decision Support Systems Data Scientist,$89K - $143K (Glassdoor est.),"About Carvana
+
+If you like disrupting the norm and are looking for a company revolutionizing an industry then you will LOVE what Carvana has done for the car buying experience. Buying a car the old fashioned way sucks and we are working hard to make it NOT suck. At Carvana, our customers can hop online to...
+Search and browse our inventory of over 20,000 vehicles that we own and certify.
+Narrow down search results using highly intelligent filtering tools/components.
+View vehicle details, Carfax reports, and 360 rotating studio images for every vehicle.
+Secure financing in minutes using Carvana's in-house service or their own bank.
+Interact with GUI components to easily customize loan length, down payment, and monthly payment.
+For more information on Carvana and our mission, sneak a peek at our company introduction video or learn more about what it's like to work here from the people that already do.
+
+
+
+We're looking for experienced data scientists and operations researchers with a passion for tackling big problems to work within our Decision Support Systems Logistics team within the larger Analytics group in Carvana. Our team is responsible for algorithms and systems that automate and optimize the movement of 15K+ per month vehicles cross-country and last mile using our 9 car hauler and single car hauler fleet. We develop, test, and maintain near real-time algorithms and systems that continuously optimize vehicle and truck movements, delivery dates promised to customers, and availability of appointments on our website.
+
+
+
+
+
+To be able to do your job at Carvana, there are some basic requirements we want to share with you.
+Of course, we'll make any reasonable accommodations for those with disabilities to perform the essential functions of their jobs.
+
+
+
+Hiring is contingent on passing a complete background check. This role is not eligible for visa sponsorship.
+
+Carvana is an equal employment opportunity employer. All applicants receive consideration for employment without regard to race, color, religion, gender, sexual orientation, gender identity or expression, marital status, national origin, age, mental or physical disability, protected veteran status, or genetic information, or any other basis protected by applicable law. Carvana also prohibits harassment of applicants or employees based on any of these protected categories.
+
+Please note this job description is not designed to contain a comprehensive listing of activities, duties, or responsibilities that are required of the employee for this job. Duties, responsibilities, and activities may change at any time with or without notice.",3.5,"Carvana
+3.5","Tempe, AZ",-1,5001 to 10000 Employees,2013,Company - Public,Other Retail Stores,Retail,Unknown / Non-Applicable,-1,0,89,143,116.0,"Carvana", AZ,8,0,0,0,0,0,data scientist,na,2659
+39,Data Scientist,$59K - $99K (Glassdoor est.),"About AI & Analytics: Artificial intelligence (AI) and the data it collects and analyzes will soon sit at the core of all intelligent, human-centric businesses. By decoding customer needs, preferences, and behaviors, our clients can understand exactly what services, products, and experiences their consumers need. Within AI & Analytics, we work to design the future—a future in which trial-and-error business decisions have been replaced by informed choices and data-supported strategies.
+
+By applying AI and data science, we help leading companies to prototype, refine, validate, and scale their AI and analytics products and delivery models. Cognizant’s AIA practice takes insights that are buried in data, and provides businesses a clear way to transform how they source, interpret and consume their information. Our clients need flexible data structures and a streamlined data architecture that quickly turns data resources into informative, meaningful intelligence.
+
+Please note, this role is not able to offer visa transfer or sponsorship now or in the future*
+R , SQL 400
+
+#LI-MS3
+
+#CB
+
+IND123
+
+Full Time Employee
+Day Job
+No
+Dec 14 2020
+
+CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 194 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @USJobsCognizant.
+
+Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.
+Cognizant is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected Veteran status, age, or any other characteristic protected by law.
+If you have a disability that requires a reasonable accommodation to search for a job opening or submit an application, please email CareersNA2@cognizant.com with your request and contact information.",3.7,"Cognizant Technology Solutions
+3.7","Irving, TX",-1,10000+ Employees,1994,Company - Public,-1,-1,$10+ billion (USD),-1,0,59,99,79.0,"Cognizant Technology Solutions", TX,27,0,0,0,0,0,data scientist,na,2560
+40,Data Scientist,$94K - $155K (Glassdoor est.),"When you’re the best, we’re the best. We instill an environment where employees feel engaged, satisfied and able to contribute their unique skills and talents. We provide extensive opportunities for personal and professional development, building both employee competence and organizational capability to fuel exceptional performance now and in the future.
+Summary:
+In this role, you will conduct sophisticated data analysis to help address critical business and member questions, the outputs of which enable members to drive improvements in clinical, operational, and economic outcomes.
+Responsibilities:
+Provide analysis to identify critical issues/questions around member performance.",4.1,"Vizient, Inc.
+4.1","Chicago, IL",-1,1001 to 5000 Employees,1977,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion (USD),-1,0,94,155,124.5,"Vizient, Inc.", IL,44,0,0,0,0,0,data scientist,na,691
+41,Physical Scientist,$39K - $72K (Glassdoor est.),"Job Description
+ENSCO Inc.’s National Security Solutions (NSS) Division is seeking a Physical Scientist. If you're eager to kick off your career and solve real problems in today's world, then this is the opportunity you've been looking for! Join our team of highly talented engineers and scientists while we provide innovative products and services vital to national safety and security. NSS develops cutting-edge solutions to unique and challenging technical problems, in complex operational constraints.
+Qualifications Required (Skills)
+BS degree in Physical Science or related discipline (Geophysics, Physics, Mathematics, Engineering, Computer Science) or equivalent
+Minimum 3 years of relevant experience",3.7,"ENSCO, Inc.
+3.7","Springfield, VA",-1,501 to 1000 Employees,1969,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million (USD),-1,0,39,72,55.5,"ENSCO, Inc.", VA,52,0,0,0,0,0,na,na,713
+42,Supply Chain Data Analyst (South of Milwaukee),$65K - $79K (Employer est.),"Supply Chain Data Analyst
+Corporate Headquarters
+12575 Uline Drive, Pleasant Prairie, WI 53158
+
+Driven by Speed, Passion and Operational Excellence, Uline’s Distribution Operations team supports our fulfillment operations across North America to be the leading distributor of shipping, packaging and industrial supplies!
+
+Better together than apart. This position is on-site, and we are looking for good people who share our passion.
+
+Uline is proud to operate as a drug-free workplace. All new hires must complete a pre-employment drug screening.
+
+Position Responsibilities",3.7,"Uline
+3.7","Milwaukee, WI",-1,5001 to 10000 Employees,1980,Company - Private,Wholesale,Business Services,Unknown / Non-Applicable,-1,0,65,79,72.0,"Uline", WI,41,0,0,0,0,0,analyst,na,584
+43,Product Development Scientist,$11K - $96K (Glassdoor est.),"What we do
+About United Therapeutics
+United Therapeutics Corporation focuses on the strength of a balanced, value-creating biotechnology model. We are confident in our future thanks to our fundamental attributes, namely our commitment to quality and innovation, the power of our brands, our entrepreneurial culture and our bioinformatics leadership. We also believe that our determination to be responsible citizens — having a positive impact on patients, the environment and society — will sustain our success in the long term.
+We currently have five approved products on the market and a long-term mission of providing an unlimited supply of transplantable organs for those who need them.
+Our company was founded by an entrepreneur whose daughter was diagnosed with a life-threatening condition. She sought to find treatment options and a cure for her daughter and patients like her. We are founder-led, and relentless in our pursuit of “medicines for life”. We continue to research and develop treatments for cardiovascular and pulmonary diseases, pediatric cancers and other orphan diseases.",3.5,"United Therapeutics
+3.5","Research Triangle Park, NC",-1,501 to 1000 Employees,1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion (USD),-1,0,11,96,53.5,"United Therapeutics", NC,25,0,0,0,0,0,na,na,1099
+44,Data Analyst,$33K - $59K (Glassdoor est.),"divvyDOSE is a new kind of home-delivery pharmacy in a hyper-growth phase focused on adherence packaging.
+
+Our company is professional but fun, dedicated yet quirky. We are fast-paced, highly-motivated doctors, pharmacists, pharmacy technicians, and support staff who focus on health and wellness (and if we’re being honest, sometimes pizza) and most of us have slight obsessions with our pets. We want to make a difference in the lives of our customers by treating them like friends and family. We offer a work-hard, play-hard environment with competitive pay and a comprehensive benefit plan.
+
+Vision/Mission
+
+Our vision is to fix and reimagine healthcare for everyone. Our mission is to engage customers by fixing all the problems around getting and taking their medications. We've taken the first step by simplifying adherence.
+
+We’re now part of Optum and the UnitedHealth Group family of businesses, backed by the resources of a global health organization working to help people live healthier lives and to help make the health system work better for everyone. Are you looking for a way to create next-level results with a human-level approach? Then look at opportunities with divvyDOSE, where changing the world is just one result of doing your life’s best work.SM
+
+About the job:
+
+Our data operations team is the pharmacy support system for our customers - we help them transition to divvyDOSE, manage their prescriptions, answer their questions, and coordinate care with their health team. This work is coordinated across pharmacists, technicians, and customer support staff to ensure we provide the best care for our customers. Among other things, we transfer prescriptions to and from other pharmacies, contact medical care providers to understand treatments and request prescription refills and answer inbound questions from our customers.
+
+
+
+Your goal is to help the operation run more effectively and efficiently through data analysis, reporting, dash-boarding, and special projects. You will help us build context through better reporting and drive the business forward by providing data-driven recommendations on ways to improve efficiency and optimize our operation. On any given day you might be presenting to our executive team, doing a deep dive on call analytics, or working with a small team to prototype and test new processes.
+Data Analyst
+
+Full-time
+
+Exempt
+
+
+
+In addition to competitive salary and a unique opportunity to thrive at a growing company, divvyDOSE offers various formal benefits as well.
+
+
+
+Full-time employees receive Sick days, Vacation days, and Holiday Bonuses as well as employer-paid Medical (including a Health Savings Account with an employer contribution), Dental, Vision, and Life insurance. In addition, we're proud to offer Voluntary Life & AD&D, Short Term Disability, and Long Term Disability coverage. A 401k plan with employer contribution is available, too.
+
+
+
+In our company description, you can tell the divvyTEAM likes to have fun. Regular potlucks, company events, pizza days, wellness challenges, and divvyNEWS You Can Use updates maintain our work-hard play-hard culture.",4.0,"divvyDOSE
+4.0","Moline, IL",-1,201 to 500 Employees,2015,Company - Private,Health Care Services & Hospitals,Health Care,Unknown / Non-Applicable,-1,0,33,59,46.0,"divvyDOSE", IL,6,0,0,0,0,0,analyst,na,3166
+45,Data Scientist I,$64K - $108K (Glassdoor est.),"Description
+ReaderLink. We Link. Publishers. Books. Retailers. Customers.
+We are North America’s largest book distributor with over 70,000 customer store locations. We move over 325,000,000 books per year and work with over 700 retailers and 500 publishers. If you want to end every day knowing that you helped deliver a book into the hands of readers across America, let’s talk.
+The Data Scientist role will allow you to grow your data engineering prowess and expand your knowledge of best practices in the Data Science community. You will thrive in an environment where not all ingenuity and creativity have been solved before you’ll have a say in the development of a solution. Using your understanding of data mining and forecast modeling, you’ll navigate this industry to give cutting edge results that lead to process change and improved technological understanding within our industry.
+
+
+:",2.4,"ReaderLink
+2.4","Oak Brook, IL",-1,1001 to 5000 Employees,2011,Company - Private,Logistics & Supply Chain,Transportation & Logistics,$1 to $2 billion (USD),-1,0,64,108,86.0,"ReaderLink", IL,10,0,0,0,0,0,data scientist,na,902
+46,Data Architect,$58K - $99K (Glassdoor est.),"Data Architect needed for Enterprise Software Development
+
+
+
+What you’ll do:
+
+We are looking for a savvy Data Architect to join our team of analytics experts. This role will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The Data Architect will support our software developers, work with data engineers, data analysts and data scientists on data initiatives and will ensure our data architecture is consistent throughout ongoing projects.
+
+Responsibilities:
+
+
+This position can be based from home anywhere in the US.
+
+
+
+
+
+At Tangoe our vision is to empower our customers to deploy and manage their IT assets and services using our leading technology, great people, and global reach so they can focus on delivering their core business faster, better, and smarter. Our breadth of solutions, depth of services, and range of experience deliver the most robust IT and Expense Management platform in the market. In other words, we’re really rather fabulous, and Gartner rates us as“Visionary”!
+
+
+
+A competitive salary, along with a whole stack of other benefits too! We're ambitious, friendly, driven, and passionate. If you want to be a part of a like-minded team in an evolving, challenging marketplace, then it’s worth us having a chat!
+
+
+
+
+
+Tangoe reaffirms its commitment to providing equal opportunities for employment and advancement to qualified employees and applicants. Individuals will be considered for positions for which they meet the minimum qualifications and are able to perform without regard to race, color, gender, age, religion, disability, national origin, veteran status, sexual orientation, gender identity, current unemployment status, or any other basis protected by federal, state or local laws. Tangoe is an Equal Opportunity Employer - Minority/Female/Disability/Veteran/Current Unemployment Status.
+
+Tangoe is committed to working with and providing reasonable accommodation to individuals with physical and mental disabilities. If you need special assistance or an accommodation while seeking employment, please call (973) 257-0300. We will make a determination on your request for reasonable accommodation on a case-by-case basis.
+
+The law requires Tangoe to post a notice describing the Federal laws prohibiting job discrimination. For information regarding your legal rights and protections, please visit Tangoe’s career page athttps://www.tangoe.com/company/careers/.
+
+As a Federal Contractor, Tangoe is required to participate in the E-Verify Program to confirm eligibility to work in the United States. For information please visit Tangoe’s career page athttps://www.tangoe.com/company/careers/.
+
+Tangoe will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay. For information please visit Tangoe’s career page athttps://www.tangoe.com/company/careers/.
+
+Tangoe prefers to recruit candidates directly, rather than through a third party recruiter or agency. Do not submit or present your candidate(s) through any means (e-mail, fax, phone, mail, verbal referral) to Tangoe or any employee of Tangoe. In the case of candidate(s) submitted or presented to Tangoe by a recruiter or agency without a signed agreement in place for the specific position or without a specific open requisition, Tangoe explicitly reserves the right to pursue and hire those candidate(s) without any financial obligation to the recruiter or agency. To request consideration as a Recruiting Vendor, please contact our recruiting department.",3.1,"Tangoe
+3.1","Indianapolis, IN",-1,1001 to 5000 Employees,2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million (USD),-1,0,58,99,78.5,"Tangoe", IN,21,0,0,0,1,0,na,na,3697
